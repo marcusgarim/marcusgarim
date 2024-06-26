@@ -16,4 +16,5 @@ Sou graduando de Análise e Desenvolvimento de Sistemas pela PUCRS. Atualmente e
 - [ ] Programação orientada a objetos
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ
 ‎‎‎‎‎‎‎‎ㅤ
+
 `HTML` `CSS` `JavaScript` `Python` `SQL` `C#` `Java`
