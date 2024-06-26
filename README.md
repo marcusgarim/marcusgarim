@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner principal](github.mp4)
+```python
+def hello_world():
+    print("Olá, mundo! Sou o Marcus, estudante de programação.")
+```
 
-<!--
-**marcusgarim/marcusgarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Um Diretor Criativo, especialista em Branding com mais de 5 anos de experiência no Design se aventurando na Programação. <br>
+Sou graduando de Análise e Desenvolvimento de Sistemas pela PUCRS. Atualmente estudo linguagens de programação para desenvolvimento de software full-stack e mobile, área na qual estou me aprofundando, garantindo que minhas habilidades estejam sempre atualizadas e alinhadas com as demandas do mercado.
 
-Here are some ideas to get you started:
+EM APRENDIZAGEM
+- [x] Lógica de Programação
+- [ ] Análise de Dados
+- [ ] Desenvolvimento mobile
+- [x] Programação Front-end
+- [ ] Programação Back-end
+- [ ] Programação orientada a objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`HTML` `CSS` `JavaScript` `Python` `SQL` `C#` `Java`
