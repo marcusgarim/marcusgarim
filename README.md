@@ -8,7 +8,8 @@ def hello_world():
 Sou graduando de Análise e Desenvolvimento de Sistemas pela PUCRS. Atualmente estudo linguagens de programação para desenvolvimento de software full-stack e mobile, área na qual estou me aprofundando, garantindo que minhas habilidades estejam sempre atualizadas e alinhadas com as demandas do mercado.
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ
 ‎‎‎‎‎‎‎‎ㅤ
-
+‎‎‎‎‎‎‎‎ㅤ
+‎‎‎‎‎‎‎‎ㅤ
 ‎‎‎‎‎EM APRENDIZAGEM
 - [x] Lógica de Programação
 - [ ] Análise de Dados
@@ -18,5 +19,6 @@ Sou graduando de Análise e Desenvolvimento de Sistemas pela PUCRS. Atualmente e
 - [ ] Programação orientada a objetos
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ
 ‎‎‎‎‎‎‎‎ㅤ
-
+‎‎‎‎‎‎‎‎ㅤ
+‎‎‎‎‎‎‎‎ㅤ
 `HTML` `CSS` `JavaScript` `Python` `SQL` `C#` `Java`
