@@ -1,7 +1,7 @@
 
 ```python
 def hello_world():
-    print("Olá, mundo! Sou o Marcus, um designer que vai ser dev!")
+    print("Olá, mundo! Sou o Marcus, um designer migrando para TI!")
 ```
 ‎‎‎‎‎‎‎‎
 >Um Diretor Criativo, especialista em Branding com mais de 5 anos de experiência no Design se aventurando na Programação.
