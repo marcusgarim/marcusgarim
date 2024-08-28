@@ -8,6 +8,8 @@ def hello_world():
 
 ## EM APRENDIZAGEM
 -   Análise de Dados
+-   Banco de Dados
+-   Computação em Nuvem
 -   Programação Front-end
 -   Programação Back-end
 -   Programação orientada a objetos
