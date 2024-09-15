@@ -17,9 +17,9 @@ def hello_world():
 
 ## LINGUAGENS
 
-[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,py,php,java)](https://skillicons.dev)
+[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,py,java,swift)](https://skillicons.dev)
 
-`HTML` `CSS` `JavaScript` `TypeScript` `Python` `PHP` `Java`
+`HTML` `CSS` `JavaScript` `TypeScript` `Python` `Java` `Swift`
 
 
 ## SKILLS
