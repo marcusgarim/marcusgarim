@@ -13,6 +13,7 @@ def hello_world():
 -   Cloud Computing
 -   Front-end Programming
 -   Back-end Programming
+-   Mobile Development
 -   Object-Oriented Programming
 
 
