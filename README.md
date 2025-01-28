@@ -21,9 +21,3 @@ def hello_world():
 
 `HTML` `CSS` `JavaScript` `TypeScript` `Python` `Java` `Swift`
 
-
-## SKILLS
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,github,figma,ai,ps,xd)](https://skillicons.dev)
-
-`VSCode` `Obsidian` `Github` `Figma` `Illustrator` `Photoshop` `XD`
