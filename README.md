@@ -4,7 +4,8 @@ def hello_world():
     print("Olá, mundo! Sou o Marcus, um designer migrando para TI!")
 ```
 
->Sou Diretor de arte com mais de 7 anos de experiência no Design e estou migrando para a Programação. Sou graduando de Análise e Desenvolvimento de Sistemas pela PUCRS e estudante de Python no Instituto Caldeira. Atualmente estou me aprofundando no estudo de linguagens de programação e frameworks para desenvolvimento full-stack, garantindo que minhas habilidades estejam sempre atualizadas e alinhadas com as demandas do mercado. No meu [linkedin](https://www.linkedin.com/in/marcusgarim/) você tem mais informações.
+>I am an Art Director with over 7 years of experience in Design, transitioning into Programming. I am currently pursuing a degree in Systems Analysis and Development at PUCRS and studying Python at Instituto Caldeira. I am deepening my knowledge of programming languages and frameworks for full-stack development, ensuring my skills remain up-to-date and aligned with market demands. You can find more information on my [linkedin](https://www.linkedin.com/in/marcusgarim/).
+
 
 ## EM APRENDIZAGEM
 -   Análise de Dados
