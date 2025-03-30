@@ -8,13 +8,12 @@ def hello_world():
 
 
 ## LEARNING
+-   Back-end Development
 -   Data Analysis
 -   Databases
 -   Cloud Computing
--   Front-end Programming
--   Back-end Programming
 -   Mobile Development
--   Object-Oriented Programming
+-   Front-end Development
 
 
 ## LANGUAGES
